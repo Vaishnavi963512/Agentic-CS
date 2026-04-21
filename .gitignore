@@ -1,0 +1,8 @@
+ai_env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+uploads/
+lancedb_data/
